@@ -1,0 +1,16 @@
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.exe
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.deps.json
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.runtimeconfig.json
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.runtimeconfig.dev.json
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.dll
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\ref\L-Gamal.dll
+D:\951001\ToI\L-Gamal\L-Gamal\bin\Debug\net5.0\L-Gamal.pdb
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.csprojAssemblyReference.cache
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.GeneratedMSBuildEditorConfig.editorconfig
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.AssemblyInfoInputs.cache
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.AssemblyInfo.cs
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.csproj.CoreCompileInputs.cache
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.dll
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\ref\L-Gamal.dll
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.pdb
+D:\951001\ToI\L-Gamal\L-Gamal\obj\Debug\net5.0\L-Gamal.genruntimeconfig.cache
